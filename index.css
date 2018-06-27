@@ -1,0 +1,15 @@
+#progress-container {
+  position: fixed;
+  top: 0;
+  background-color: red;
+  height: 10px;
+  width: 100%;
+}
+
+#progress-indicator {
+  position: fixed;
+  top: 0;
+  background-color: green;
+  width: 50%;
+  height: 10px;
+}
